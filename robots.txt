@@ -1,0 +1,26 @@
+# robots.txt – Kebab Dubai Warszawa
+# https://kebabdubai.pl/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://kebabdubai.pl/sitemap.xml
+
+# Disallow admin or private paths (none currently, but good practice)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow Google image bot
+User-agent: Googlebot-Image
+Allow: /img/
+
+# Allow social crawlers for OG previews
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /

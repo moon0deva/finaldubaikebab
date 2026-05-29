@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60" role="img" aria-label="Polecam Kebab Dubai Warszawa – 4.1 na 5 gwiazdek z 2500 opinii Google">
+  <title>Polecam Kebab Dubai Warszawa – 4.1★ z 2500+ opinii Google</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="200" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#080808"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="200" height="60" rx="8" fill="url(#bg)"/>
+  <!-- Gold border -->
+  <rect x="0.75" y="0.75" width="198.5" height="58.5" rx="7.25" fill="none" stroke="#C9813A" stroke-width="1.5" opacity="0.6"/>
+  <!-- Left gold accent bar -->
+  <rect x="0" y="0" width="4" height="60" rx="8" fill="#C9813A"/>
+  <!-- Star icon -->
+  <text x="14" y="26" font-family="Arial, sans-serif" font-size="14" fill="#C9813A">★</text>
+  <!-- Brand name -->
+  <text x="32" y="25" font-family="Georgia, serif" font-size="13" font-weight="400" fill="#E8E0D4" letter-spacing="0.5">Kebab Dubai</text>
+  <!-- Sub line -->
+  <text x="32" y="40" font-family="Arial, sans-serif" font-size="9" fill="#9CA3AF" letter-spacing="0.3">Warszawa · Najlepszy Kebab</text>
+  <!-- Rating -->
+  <text x="32" y="53" font-family="Arial, sans-serif" font-size="8.5" fill="#C9813A" letter-spacing="0.2">4.1★  |  2500+ opinii Google</text>
+  <!-- External link arrow -->
+  <text x="180" y="33" font-family="Arial, sans-serif" font-size="12" fill="#C9813A" opacity="0.7">↗</text>
+</svg>

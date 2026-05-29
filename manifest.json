@@ -1,0 +1,58 @@
+{
+  "name": "Kebab Dubai Warszawa",
+  "short_name": "Kebab Dubai",
+  "description": "Najlepszy kebab w Warszawie. 3 lokalizacje, jedna otwarta 24H. Zamów przez Uber Eats.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "portrait-primary",
+  "lang": "pl",
+  "dir": "ltr",
+  "categories": ["food", "restaurants"],
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Zamów przez Uber Eats",
+      "short_name": "Zamów",
+      "description": "Dostawa kebab w całej Warszawie",
+      "url": "https://www.ubereats.com/pl/store/kebab-dubai-rakowiecka/CzNTlSOsU5OJ8WjI43dbuQ",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Znajdź lokalizację",
+      "short_name": "Lokalizacje",
+      "description": "3 lokalizacje w Warszawie",
+      "url": "/#locations",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

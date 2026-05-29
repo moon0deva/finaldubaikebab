@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+ 
+  <url>
+    <loc>https://kebabdubai.pl/</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+   
+    <xhtml:link rel="alternate" hreflang="pl" href="https://kebabdubai.pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kebabdubai.pl/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kebabdubai.pl/"/>
+      <image:image>
+      <image:loc>https://kebabdubai.pl/img/menu-lwowska.jpg</image:loc>
+      <image:title>Kebab Dubai Warszawa – kebab kurczak i baranina na talerzu</image:title>
+      <image:caption>Autentyczny kebab z kurczaka i baraniny w Kebab Dubai Warszawa – Lwowska 1, Śródmieście</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://kebabdubai.pl/img/menu-centrum.jpg</image:loc>
+      <image:title>Kebab Dubai Centrum Warszawa – kebab otwarty 24h</image:title>
+      <image:caption>Kebab Dubai przy Al. Jerozolimskich w Warszawie, czynny 24 godziny na dobę</image:caption>
+    </image:image>
+  </url>
+<url>
+    <loc>https://kebabdubai.pl/#menu</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://kebabdubai.pl/#locations</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://kebabdubai.pl/#press</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://kebabdubai.pl/#faq</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://kebabdubai.pl/#reviews</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://kebabdubai.pl/#contact</loc>
+    <lastmod>2025-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
