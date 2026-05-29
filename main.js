@@ -219,7 +219,7 @@ const i18n = {
       opt1t:'Home delivery', opt1d:'Uber Eats · All Warsaw',
       opt2t:'Pick up in person', opt2d:'3 locations · Rakowiecka / Lwowska / Centre',
       opt3t:'Phone order', opt3d:'+48 22 630 66 55 · Rakowiecka branch',
-      orderNote:'Cash payment · Card not accepted for in-store pickup',
+      orderNote:'Cash · Card accepted payment for in-store pickup',
       contEyebrow:'Get in touch', contTitle:'Contact',
       contPhone:'Phone', 
       contAddr:'Addresses', contHours:'Opening hours',
